@@ -1,0 +1,22 @@
+{
+  "name": "beginners-guide-cs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icmccorm/beginners-guide-cs.git"
+  },
+  "author": "Ian C McCormack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icmccorm/beginners-guide-cs/issues"
+  },
+  "homepage": "https://github.com/icmccorm/beginners-guide-cs#readme",
+  "dependencies": {
+    "bookgen": "^1.0.0"
+  }
+}
