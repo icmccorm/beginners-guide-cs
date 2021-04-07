@@ -1,16 +1,28 @@
 # Chapter 2 - Sharing Your Ideas With The World
-
+You've done it: you had an idea, found a research mentor to develop it with, and produced some novel results! Now what? It's time to share your findings with the Computer Science community. But what exactly *is* that community? How is it structured? Who gets to decide which ideas are sound
+and worthy of debate, and how are these decisions made? With *two* leading professional organizations and several popular open access archives, the world of academia has boundless opportunities for advancing the bounaries of knowledge in computing. 
 
 ## ACM & IEEE: Alphabet Soup
+To share your ideas with the world, you need a world to share them with; a community of interested professionals and stakeholders. The Association for Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE) provide this for the field of computer science. Each is a "technical professional society" by the IEEE's definition, but this encompasses so much more than just a title or membership. The IEEE and ACM coordinate conferences, journals, books, magazines, technical standards, and more, representing the process of peer review and providing professional networks that are invaluable for academics. 
 
+The ACM and IEEE are long-standing organizations, founded in 1947 and 1963, respectively. The IEEE was a merger of two separate technical societies, the American Institute of Electrical Engineers and the Institute of Radio Engineers, and is dedicated to studying interdiscplinary applications of electronics, which doesn't always necessarily involve computing. The IEEE has 39 "societies" dedicated to a particular field of study, which range from applications in medicine and biology to robotics, education, and aerospace.
+The ACM is far more computing-focused, with the stated goal of advancing "the science, development, construction, and application of the new machinery for computing." Mirroring the IEEE's societies are the ACM's 39 Special Interest Groups ([SIGs](https://www.acm.org/special-interest-groups)), which capture research areas including programming languages ([SIGPLAN](https://www.sigplan.org/)), software engineering ([SIGSOFT](https://www.sigsoft.org/index.html)), and human-computer interaction ([SIGCHI](https://sigchi.org/)). Both the ACM and IEEE broadly overlap, but the IEEE can be viewed as studying applied electronics, which happens to include applied computing, while the ACM studies computing, which includes its applications in society.
+
+Along with SIGS and Societies, both organizations share similar features. Each has a tiere organization structure, with a central governing body and local chapters. Multiple paid tiers of membership are offered, with student tiers being the most relevant for undergraduates. Membership can be necessary to submit to conferences sponsored by each organization. Each organization collects all of its proceedings central digital repositories: the [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) and [ACM Digital Library](https://dl.acm.org/). Distinguished members of each organization can also be nominated for awards. The highest honor of the ACM is the Turing Award, while the IEEE offers the IEEE Medal of Honor. However, with its broader scope, the IEEE hosts 300 annual conferences to the ACM's 170 and publishes 130 journals to the ACM's 50. Neither are necessarily in competition; both are relevant to the field of computer science, and it is likely that one or the other will be more relevant to you, depending on your field of choice. For a more detailed look at professional computing societies, visit the [IEEE](ieee.org) and [ACM](acm.org) websites; both organizations have a massive scope and history that is only touched upon here.
 
 ## Venues: Into the Unknown
 
 
-## Peer Review: Meet Your Archnemesis
-
-
-## Whitepapers: Why Wait?
+## Peer Review & Whitepapers: Why Wait?
 
 Formal venues aren't the only way to share research with the world. Online repositories such as Cambridge University's [arXiv](https://arxiv.org) 
 provide a space for authors to publish their works without peer review. This has several [key benefits](https://www.aje.com/arc/benefits-of-preprints-for-researchers/). If your research idea is incredibly novel in a competitive field, publishing fast and early creates a record of priority, attributing the discovery to you. For example, famed mathematician [Grigoriy Perelman's](https://www.claymath.org/millennium-problems-poincaré-conjecture/perelmans-solution) solution to the Poincare Conjecture was first published to the arXiv. Though it is not guaranteed, open-access archives may also allow for peer review at a broader scale, given that articles are available for anyone with an internet connect, and not hidden behind the paywalls common to major academic journals. 
+
+The current trend towards "open-access", where publications are avaliable to all, free-of-charge, has blurred the lines as to what constitutes a whitepaper. The same open-access repositories distributing pre-prints are also used for post-prints: publications that have been accepted to a peer-reviewed conference or journal and then uploaded separately for all to see.
+
+The convenient term "eprint" covers both of these categories, but be careful not to associate it with any degree of peer review or trustworthiness, given that it's been a tradition for academics to upload "[joke submissions](https://www.ellipsix.net/arxiv-joke-papers.html)" to the arXiv. The arXiv and other similar repositories *do* have some degree of vetting, especially for certain categories like [COVID-19](https://www.ellipsix.net/arxiv-joke-papers.html) research. However, are not consistent, and the arXiv displays the following warning label:
+
+![arXiv warning](img/covid_eprint.png)
+
+
+### References

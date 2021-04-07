@@ -113,12 +113,12 @@ body {
 .chapter-content-area {
     order: 2;
     flex-grow: 3;
-    flex-basis: 75%;
+    flex-basis: 60%;
 
     margin-left: auto;
     
 
-    padding-left: 4em;
+    padding-left: 8em;
     padding-right: 30%;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -141,6 +141,15 @@ body {
     text-align: left;
     display: inline-block;
 
+}
+
+#sidenav h2{
+    font-family: 'Roboto Slab', serif;
+
+}
+
+#sidenav li{
+    padding-bottom: 1em;
 }
 
 #navbox{
