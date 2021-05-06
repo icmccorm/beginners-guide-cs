@@ -13,7 +13,7 @@ Along with their SIGS and Societies, both organizations share similar features. 
 
 However, with its broader scope, the IEEE hosts 300 annual conferences to the ACM's 170 and publishes 130 journals to the ACM's 50. Neither are necessarily in competition; both are relevant to the field of computer science, and it is likely that one or the other will be more relevant to you, depending on your field of choice. For a more detailed look at professional computing societies, visit the [IEEE](ieee.org) and [ACM](acm.org) websites. Both organizations have a massive scope and history that is only touched upon here.
 
-# Where do I submit?
+## Where do I submit?
 
 Once you've taken a look at what academic membership has to offer, it's time to narrow things down a bit; what parts of the ACM and IEEE are most suitable for your area of work? It's likely that your research mentor will have an idea of where would be best to submit to. However, you can also do some independent work; start with a particular SIG or Society and see what types of conferences and journals they sponsor, and find which are particularly relevant to your work. 
 
