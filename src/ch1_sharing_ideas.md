@@ -13,7 +13,7 @@ Along with their SIGS and Societies, both organizations share similar features. 
 
 However, with its broader scope, the IEEE hosts 300 annual conferences to the ACM's 170 and publishes 130 journals to the ACM's 50. Neither are necessarily in competition; both are relevant to the field of computer science, and it is likely that one or the other will be more relevant to you, depending on your field of choice. For a more detailed look at professional computing societies, visit the [IEEE](ieee.org) and [ACM](acm.org) websites. Both organizations have a massive scope and history that is only touched upon here.
 
-# How can I find a conference to submit to?
+# Where do I submit?
 
 Once you've taken a look at what academic membership has to offer, it's time to narrow things down a bit; what parts of the ACM and IEEE are most suitable for your area of work? It's likely that your research mentor will have an idea of where would be best to submit to. However, you can also do some independent work; start with a particular SIG or Society and see what types of conferences and journals they sponsor, and find which are particularly relevant to your work. 
 
@@ -37,14 +37,14 @@ LaTeX syntax might be a little intimidating, but it generally boils down to two 
 
 When you have enough LaTeX under your belt to feel comfortable writing a paper, make sure to visit the website for the conference, journal, or other such venue that you are targetting to see if they provide any guidelines on how submissions should be typeset. For example, ACM conferences require that all submissions use the [ACM Proceedings Template](https://www.acm.org/publications/proceedings-template): a pre-built set of LaTeX styles that can be applied to a document via the ```\documentclass{}``` command. There are several sub-templates in this category, and many ways to adjust and customize each one. Some conferences require a specific customization; the [POPL](https://popl21.sigplan.org/track/POPL-2021-research-papers#POPL-2021-Call-for-Papers)conference (Principles of Programming Languages), for instance, enforces ```the acmsmall``` option for long-form research submissions. Make sure to check, double check, and triple check the formatting requirements of a venue before hitting submit!
 
-# Time to Hit Submit - What's Next?
+## What's next?
 Let's say you've decided that POPL's Student Research Competition is the best venue for your work. You've carefully written and polished a 3-page extended abstract in LaTeX using the ```acmsmall``` documentclass option, and your research mentor or team has approved it. You navigate to the conference's website, visit the submission link, and upload a PDF along with contact information for you and your co-authors. And then... it's time to wait!
 
 The next step after submission is to receive peer review, in which a a collection of peers within your discpline review your submission and decide whether it should be accepted. POPL follows the [SIGPLAN guidelines](https://www.sigplan.org/Resources/Guidelines/ProChair/) of organizing a Program Committee (PC) that conducts the peer review process. In PC meetings and online discussions, these members review all submissions and decide which ones hit the mark for acceptance, and which should not be included. After these decisions are made, you will receive a summary of PC's review of your submission, indicating whether it has been accepted. 
 
 This summary will include feedback from multiple reviewers, indicating their level of expertise, the overall score of your paper (SIGPLAN's recommendations are "Good", "OK", "Weak", and "Serious problems"), and an itemized list of both positive and negative comments. This format will likely vary depending on the venue and it sponsoring organization, but comments tend to contian a mix of concerns ranging from high-level, conceptual remarks to low-level, editing details, such as indicating a problematic or incorrect word choice. If accepted, you will need to incorporate these concerns in a camera ready submission, which will be covered in a subsequent chapter. 
 
-
+Some conferences offer authors the opportunity to write a rebuttal: a response to reviews. Dr. Meredith Ringel Morris, also of the University of Washington, has several recommendations. First, stay quiet about reviews, and take time to consider the reviewer's recommendations — no social media rants or angry comments to chairs. Then, if your reviews are positive enough to allow for a rebuttal by the conference's restrictions, prioritize and group comments, allowing for a concise and **polite** response. A rebuttal isn't just a second chance at acceptance; it can confirm the acceptance of an already highly-scored paper, and it can be a great learning opportunity! Visit [her guide](https://cs.stanford.edu/~merrie/merrie_rebuttal_tips.pdf) for more specific recommendations, and **consult with your research mentor!** 
 
 ## Peer Review & Whitepapers: Why Wait?
 
@@ -53,7 +53,7 @@ provide a space for authors to publish their works without peer review. This has
 
 The current trend towards "open-access", where publications are avaliable to all, free-of-charge, has blurred the lines as to what constitutes a whitepaper. The same open-access repositories that distribute pre-prints are also used for post-prints, which are publications that have been accepted to a peer-reviewed conference or journal *and* uploaded to an open-access repository.
 
-The convenient term "eprint" covers both of these categories, but be careful not to associate it with any degree of peer review or trustworthiness, given that it's been a tradition for academics to upload "[joke submissions](https://www.ellipsix.net/arxiv-joke-papers.html)" to the arXiv. The arXiv and other similar repositories *do* have some degree of vetting, especially for certain categories like [COVID-19](https://www.ellipsix.net/arxiv-joke-papers.html) research. 
+The convenient term "eprint" covers both of these categories, but be careful not to associate it with any degree of peer review or trustworthiness, given that it's been a tradition for academics to upload "[joke submissions](https://www.ellipsix.net/arxiv-joke-papers.html)" to the arXiv. The arXiv and other similar repositories *do* have some degree of vetting, especially for certain categories like [COVID-19](https://blog.arxiv.org/2020/10/22/open-access-in-the-covid-19-era-oaweek-panel-discussion/) research. 
 
 ![arXiv warning](img/covid_eprint.png)
 
