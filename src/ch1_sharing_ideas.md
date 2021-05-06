@@ -53,7 +53,7 @@ provide a space for authors to publish their works without peer review. This has
 
 The current trend towards "open-access", where publications are avaliable to all, free-of-charge, has blurred the lines as to what constitutes a whitepaper. The same open-access repositories that distribute pre-prints are also used for post-prints, which are publications that have been accepted to a peer-reviewed conference or journal *and* uploaded to an open-access repository.
 
-The convenient term "eprint" covers both of these categories, but be careful not to associate it with any degree of peer review or trustworthiness, given that it's been a tradition for academics to upload "[joke submissions](https://www.ellipsix.net/arxiv-joke-papers.html)" to the arXiv. The arXiv and other similar repositories *do* have some degree of vetting, especially for certain categories like [COVID-19](https://blog.arxiv.org/2020/10/22/open-access-in-the-covid-19-era-oaweek-panel-discussion/) research. 
+The convenient term "eprint" covers both of these categories, but be careful not to associate it with any degree of peer review or trustworthiness, given that it's been a tradition for academics to upload "[joke submissions](https://www.ellipsix.net/arxiv-joke-papers.html)" to the arXiv. The arXiv and other similar repositories *do* have some degree of vetting, especially for certain categories like [COVID-19](https://news.cornell.edu/stories/2020/10/panel-offers-look-open-access-covid-19-era) research. However, for the arXiv, this process conducted by 185 volunteers and isn't always adequate for the rate of submission. 
 
 ![arXiv warning](img/covid_eprint.png)
 
